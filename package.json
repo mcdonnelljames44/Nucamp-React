@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.5.2",
     "bootstrap-social": "^5.1.1",
+    "caniuse-lite": "^1.0.30001191",
     "font-awesome": "^4.7.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
@@ -18,13 +19,14 @@
     "react-redux-form": "^1.16.14",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
-    "react-transition-group": "^4.4.1",
+    "react-transition-group": "^2.2.1",
     "reactstrap": "^8.5.1",
     "redux": "^4.0.5",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
     "typeface-lobster": "0.0.72",
-    "typeface-open-sans": "0.0.75"
+    "typeface-open-sans": "0.0.75",
+    "web-vitals": "^1.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
